@@ -1,6 +1,6 @@
 # RohanPearl
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23. It utilizes the Angular Material Library and Pearl AWS API to pipeline and display browsable message data on a simple web application.
 
 ## Development server
 
